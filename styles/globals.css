@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.fa_icon
+{
+  margin:7px;
+  color:#000000;
+}
+
+.fa_icon:hover {
+  color:#686962;
+}
